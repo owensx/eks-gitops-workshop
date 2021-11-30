@@ -4,4 +4,4 @@ metadata:
   name: eks-gitops-workshop-s3-bucket
   namespace: default
 spec:
-  name: eks-gitops-workshop-s3-bucket
+  name: eks-gitops-workshop-s3-bucket-owensx
