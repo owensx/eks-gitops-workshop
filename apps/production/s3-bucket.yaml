@@ -5,3 +5,8 @@ metadata:
   namespace: default
 spec:
   name: eks-gitops-workshop-s3-bucket-owensx
+  tagging:
+   tagSet:
+   - key: application
+     value: podinfo
+
